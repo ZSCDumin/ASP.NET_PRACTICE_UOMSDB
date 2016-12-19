@@ -1,0 +1,764 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{973804D1-8E53-4ED4-A2D6-6F5936B7DF66}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>高校食堂自助配餐系统</RootNamespace>
+    <AssemblyName>高校食堂自助配餐系统</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Administrator\adminLogin.aspx" />
+    <Content Include="Administrator\AdminManage.aspx" />
+    <Content Include="buyer\evaluationOfProduct.aspx" />
+    <Content Include="buyer\Modify.aspx" />
+    <Content Include="buyer\pageOfEvaluation.aspx" />
+    <Content Include="buyer\readme.txt" />
+    <Content Include="control_buyer\C_search_state.ascx" />
+    <Content Include="Control_seller\C_SellingPro.ascx" />
+    <Content Include="Control_seller\C_Retrieve_pwd.ascx" />
+    <Content Include="register.aspx" />
+    <Content Include="buyer\SearchBalance.aspx" />
+    <Content Include="buyer\searchProductsByCategory.aspx" />
+    <Content Include="buyer\searchProductsByName.aspx" />
+    <Content Include="buyer\ShoppingCart.aspx" />
+    <Content Include="buyer\showInformationOfBuyer.aspx" />
+    <Content Include="buyer\Status_query.aspx" />
+    <Content Include="buyer\UpDateInformOfBuyer.aspx" />
+    <Content Include="Control_admin\administrator_uc.ascx" />
+    <Content Include="control_buyer\C_LoginStatus.ascx" />
+    <Content Include="control_buyer\C_NavStatus.ascx" />
+    <Content Include="control_buyer\C_Register.ascx" />
+    <Content Include="control_buyer\C_searchBalance.ascx" />
+    <Content Include="control_buyer\C_ShoppingCart.ascx" />
+    <Content Include="control_buyer\C_evaluationOfProduct.ascx" />
+    <Content Include="control_buyer\C_pageOfEvaluation.ascx" />
+    <Content Include="C_ProductDetail.ascx" />
+    <Content Include="control_buyer\ProductShow.ascx" />
+    <Content Include="control_buyer\C_UpDateInformOfBuyer.ascx" />
+    <Content Include="control_buyer\C_showInformationOfBuyer.ascx" />
+    <Content Include="Control_seller\C_Add_goods.ascx" />
+    <Content Include="Control_seller\C_Information.ascx" />
+    <Content Include="Control_seller\C_login.ascx" />
+    <Content Include="Control_seller\C_LoginStatus.ascx" />
+    <Content Include="Control_seller\C_Modify.ascx" />
+    <Content Include="Control_seller\C_Modify_goods.ascx" />
+    <Content Include="Control_seller\C_NavStatus.ascx" />
+    <Content Include="Control_seller\C_Number_query.ascx" />
+    <Content Include="Control_seller\C_registered.ascx" />
+    <Content Include="Control_seller\C_Timerprofit.ascx" />
+    <Content Include="Control_seller\README.txt" />
+    <Content Include="Control_seller\UpDateInformation.ascx" />
+    <Content Include="css\style.css" />
+    <Content Include="C_LoginStatus.ascx" />
+    <Content Include="Default.aspx" />
+    <Content Include="bootstrap\css\bootstrap-theme.css" />
+    <Content Include="bootstrap\css\bootstrap-theme.min.css" />
+    <Content Include="bootstrap\css\bootstrap.css" />
+    <Content Include="bootstrap\css\bootstrap.min.css" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="bootstrap\js\bootstrap.js" />
+    <Content Include="bootstrap\js\bootstrap.min.js" />
+    <Content Include="bootstrap\js\npm.js" />
+    <Content Include="Global.asax" />
+    <Content Include="images\123.gif" />
+    <Content Include="images\1_meitu_1.jpg" />
+    <Content Include="images\20100902122817194.jpg" />
+    <Content Include="images\bg2.jpg" />
+    <Content Include="images\bg8.gif" />
+    <Content Include="images\bg_img.jpg" />
+    <Content Include="images\btn_reg.gif" />
+    <Content Include="images\chaxun0.jpg" />
+    <Content Include="images\huncai0.png" />
+    <Content Include="images\jiantou0.png" />
+    <Content Include="images\loader.gif" />
+    <Content Include="images\loginimge0.png" />
+    <Content Include="images\login_img.png" />
+    <Content Include="images\mianshi0.png" />
+    <Content Include="images\nav_on.gif" />
+    <Content Include="images\nivo-preloader.gif" />
+    <Content Include="images\shangpinsousuo0.jpg" />
+    <Content Include="images\shoppingcar0.jpg" />
+    <Content Include="images\shuiguo0.png" />
+    <Content Include="images\slider-left-arrow.png" />
+    <Content Include="images\slider-right-arrow.png" />
+    <Content Include="images\slides\1.jpg" />
+    <Content Include="images\slides\2.jpg" />
+    <Content Include="images\slides\3.jpg" />
+    <Content Include="images\slides\4.jpg" />
+    <Content Include="images\slides\6.jpg" />
+    <Content Include="images\slides\slide1.jpg" />
+    <Content Include="images\slides\slide2.jpg" />
+    <Content Include="images\slides\slide3.jpg" />
+    <Content Include="images\slides\slide5.jpg" />
+    <Content Include="images\slides\slide6.jpg" />
+    <Content Include="images\sousuo0.png" />
+    <Content Include="images\sucai0.png" />
+    <Content Include="images\tanglei0.png" />
+    <Content Include="images\tiandian0.png" />
+    <Content Include="images\tijiaoxiugai.jpg" />
+    <Content Include="images\tijiaoxiugaixinxi.jpg" />
+    <Content Include="images\tijiaozhuce0.jpg" />
+    <Content Include="images\Title_bk_730px.gif" />
+    <Content Include="images\title_help.gif" />
+    <Content Include="images\top2.jpg" />
+    <Content Include="images\top2_meitu_1.jpg" />
+    <Content Include="images\top_bg.jpg" />
+    <Content Include="images\zhuce0.jpg" />
+    <Content Include="images\价格图标.png" />
+    <Content Include="images\充值0.png" />
+    <Content Include="images\删除商品0_meitu_1.jpg" />
+    <Content Include="images\商品列表0.jpg" />
+    <Content Include="images\小购物车0.png" />
+    <Content Include="images\查询0_meitu_1.jpg" />
+    <Content Include="images\浅蓝色横杠0.png" />
+    <Content Include="images\清空购物车0_meitu_1.jpg" />
+    <Content Include="images\确定0.png" />
+    <Content Include="images\管理员头像.png" />
+    <Content Include="images\箭头0.png" />
+    <Content Include="images\结算0_meitu_1.jpg" />
+    <Content Include="images\继续购物0_meitu_1.jpg" />
+    <Content Include="images\设置新密码0.png" />
+    <Content Include="images\账号0.png" />
+    <Content Include="images\返回首页0.jpg" />
+    <Content Include="images\重新计算0_meitu_1.jpg" />
+    <Content Include="images\钱包0.png" />
+    <Content Include="js\banner.js" />
+    <Content Include="js\jquery-1.8.3.min.js" />
+    <Content Include="js\jquery.banner.revolution.min.js" />
+    <Content Include="Logout.aspx" />
+    <Content Include="ProductDetail.aspx" />
+    <Content Include="seller\Information.aspx" />
+    <Content Include="seller\SellingPro.aspx" />
+    <Content Include="seller\Timerprofit.aspx" />
+    <Content Include="菜品素材\半荤菜\农家小炒肉.jpg" />
+    <Content Include="菜品素材\半荤菜\咸鱼茄子.jpg" />
+    <Content Include="菜品素材\半荤菜\毛血旺.jpg" />
+    <Content Include="菜品素材\半荤菜\红烧豆腐.jpg" />
+    <Content Include="菜品素材\半荤菜\腐竹炒肉.jpg" />
+    <Content Include="菜品素材\半荤菜\芹菜香干肉丝.jpg" />
+    <Content Include="菜品素材\半荤菜\苦瓜炒肉丝.jpg" />
+    <Content Include="菜品素材\半荤菜\茄子炒肉.jpg" />
+    <Content Include="菜品素材\半荤菜\莲藕炖肉.jpg" />
+    <Content Include="菜品素材\半荤菜\豆腐肉末.jpg" />
+    <Content Include="菜品素材\半荤菜\豆角茄子肉末.jpg" />
+    <Content Include="菜品素材\半荤菜\辣椒炒玉米.jpg" />
+    <Content Include="菜品素材\半荤菜\辣椒炒肉丝.jpg" />
+    <Content Include="菜品素材\半荤菜\金针菇肉丝.jpg" />
+    <Content Include="菜品素材\半荤菜\青瓜肉片.jpg" />
+    <Content Include="菜品素材\早餐\奶油面包.jpg" />
+    <Content Include="菜品素材\早餐\巧克力蛋糕.jpg" />
+    <Content Include="菜品素材\早餐\油条.jpg" />
+    <Content Include="菜品素材\早餐\烧卖.jpg" />
+    <Content Include="菜品素材\早餐\现磨豆浆.jpg" />
+    <Content Include="菜品素材\早餐\糯米鸡.jpg" />
+    <Content Include="菜品素材\早餐\肉包.jpg" />
+    <Content Include="菜品素材\早餐\肉松面包.jpg" />
+    <Content Include="菜品素材\早餐\菜包.jpg" />
+    <Content Include="菜品素材\早餐\蛋挞.jpg" />
+    <Content Include="菜品素材\早餐\蛋糕.jpg" />
+    <Content Include="菜品素材\早餐\酸奶.jpg" />
+    <Content Include="菜品素材\汤类\丝瓜汤.jpg" />
+    <Content Include="菜品素材\汤类\番茄蛋花汤.jpg" />
+    <Content Include="菜品素材\汤类\白菜豆腐汤.jpg" />
+    <Content Include="菜品素材\汤类\萝卜白菜汤.jpg" />
+    <Content Include="菜品素材\汤类\蛋花紫菜汤.jpg" />
+    <Content Include="菜品素材\炒饭\咖喱炒饭.jpg" />
+    <Content Include="菜品素材\炒饭\咸肉菜炒饭.jpg" />
+    <Content Include="菜品素材\炒饭\咸鱼肉丁炒饭.jpg" />
+    <Content Include="菜品素材\炒饭\孜然牛肉炒饭.jpg" />
+    <Content Include="菜品素材\炒饭\扬州炒饭.jpg" />
+    <Content Include="菜品素材\炒饭\火腿蛋炒饭.jpg" />
+    <Content Include="菜品素材\炒饭\鱼香肉丝炒饭.jpg" />
+    <Content Include="菜品素材\素菜\炒白菜苔.jpg" />
+    <Content Include="菜品素材\素菜\炝炒凤尾.jpg" />
+    <Content Include="菜品素材\素菜\空心炒菜.jpg" />
+    <Content Include="菜品素材\素菜\蛋花.jpg" />
+    <Content Include="菜品素材\素菜\青椒炒蛋.jpg" />
+    <Content Include="菜品素材\素菜\青椒皮蛋.jpg" />
+    <Content Include="菜品素材\素菜\黄焖豆腐.jpg" />
+    <Content Include="菜品素材\荤菜\剁椒鱼头.jpg" />
+    <Content Include="菜品素材\荤菜\卤鸭.jpg" />
+    <Content Include="菜品素材\荤菜\叉烧.jpg" />
+    <Content Include="菜品素材\荤菜\咖喱鸡.jpg" />
+    <Content Include="菜品素材\荤菜\土豆丝.jpg" />
+    <Content Include="菜品素材\荤菜\宫保鸡丁.jpg" />
+    <Content Include="菜品素材\荤菜\干锅肥肠.jpg" />
+    <Content Include="菜品素材\荤菜\干锅鸡.jpg" />
+    <Content Include="菜品素材\荤菜\梅菜扣肉.jpg" />
+    <Content Include="菜品素材\荤菜\水煮肉片.jpg" />
+    <Content Include="菜品素材\荤菜\水煮鸭.jpg" />
+    <Content Include="菜品素材\荤菜\泡椒风爪.jpg" />
+    <Content Include="菜品素材\荤菜\泡椒鸡杂.jpg" />
+    <Content Include="菜品素材\荤菜\炒鱿鱼丝.jpg" />
+    <Content Include="菜品素材\荤菜\炸鸡块.jpg" />
+    <Content Include="菜品素材\荤菜\烤乳鸽.jpg" />
+    <Content Include="菜品素材\荤菜\烤肉.jpg" />
+    <Content Include="菜品素材\荤菜\牛扒.jpg" />
+    <Content Include="菜品素材\荤菜\牛排.jpg" />
+    <Content Include="菜品素材\荤菜\猪扒.jpg" />
+    <Content Include="菜品素材\荤菜\白切鸡.jpg" />
+    <Content Include="菜品素材\荤菜\红烧肉.jpg" />
+    <Content Include="菜品素材\荤菜\蒸排骨.jpg" />
+    <Content Include="菜品素材\荤菜\蒸肥肠.jpg" />
+    <Content Include="菜品素材\荤菜\辣子鸡.jpg" />
+    <Content Include="菜品素材\荤菜\酱香猪手.jpg" />
+    <Content Include="菜品素材\荤菜\香味鱼块.jpg" />
+    <Content Include="菜品素材\荤菜\香菇滑鸡.jpg" />
+    <Content Include="菜品素材\荤菜\鱼香肉丝.jpg" />
+    <Content Include="菜品素材\荤菜\鸡扒.jpg" />
+    <Content Include="菜品素材\荤菜\鸡腿.jpg" />
+    <Content Include="菜品素材\荤菜\黄焖鸡.jpg" />
+    <Content Include="菜品素材\面食\云吞面.jpg" />
+    <Content Include="菜品素材\面食\干拌面.jpg" />
+    <Content Include="菜品素材\面食\意大利面.jpg" />
+    <Content Include="菜品素材\面食\水饺.jpg" />
+    <Content Include="菜品素材\面食\炸酱面.jpg" />
+    <Content Include="菜品素材\面食\牛肉面.jpg" />
+    <Content Include="菜品素材\面食\肉丝面.jpg" />
+    <Content Include="菜品素材\面食\过桥米线.jpg" />
+    <Content Include="菜品素材\面食\酸菜米线.jpg" />
+    <Content Include="菜品素材\面食\酸辣粉.jpg" />
+    <Content Include="菜品素材\面食\鸡蛋面.jpg" />
+    <Content Include="菜品素材\面食\黑椒牛柳丝面.jpg" />
+    <Content Include="bootstrap\css\bootstrap-theme.css.map" />
+    <Content Include="bootstrap\css\bootstrap.css.map" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="buyer\Web.config" />
+    <None Include="Scripts\jquery-3.1.1.intellisense.js" />
+    <Content Include="Scripts\jquery-3.1.1.js" />
+    <Content Include="Scripts\jquery-3.1.1.min.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.js" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.js" />
+    <Content Include="seller\Add_goods.aspx" />
+    <Content Include="seller\images\20100902122817194.jpg" />
+    <Content Include="seller\images\bg_img.jpg" />
+    <Content Include="seller\images\loader.gif" />
+    <Content Include="seller\images\nav_on.gif" />
+    <Content Include="seller\images\nivo-preloader.gif" />
+    <Content Include="seller\images\slider-left-arrow.png" />
+    <Content Include="seller\images\slider-right-arrow.png" />
+    <Content Include="seller\images\slides\1.jpg" />
+    <Content Include="seller\images\slides\2.jpg" />
+    <Content Include="seller\images\slides\3.jpg" />
+    <Content Include="seller\images\slides\4.jpg" />
+    <Content Include="seller\images\slides\6.jpg" />
+    <Content Include="seller\images\slides\slide1.jpg" />
+    <Content Include="seller\images\slides\slide2.jpg" />
+    <Content Include="seller\images\slides\slide3.jpg" />
+    <Content Include="seller\images\slides\slide5.jpg" />
+    <Content Include="seller\images\slides\slide6.jpg" />
+    <Content Include="seller\images\top_bg.jpg" />
+    <Content Include="seller\js\banner.js" />
+    <Content Include="seller\js\jquery-1.8.3.min.js" />
+    <Content Include="seller\js\jquery.banner.revolution.min.js" />
+    <Content Include="login.aspx" />
+    <Content Include="seller\Modify.aspx" />
+    <Content Include="seller\Modify_goods.aspx" />
+    <Content Include="seller\Number_query.aspx" />
+    <Content Include="seller\README.TXT" />
+    <Content Include="registered.aspx" />
+    <Content Include="seller\Retrieve_pwd.aspx" />
+    <Content Include="MasterPage.master" />
+    <Content Include="ModifyUser.Master" />
+    <Content Include="Scripts\jquery-3.1.1.min.map" />
+    <Content Include="Scripts\jquery-3.1.1.slim.min.map" />
+    <Content Include="seller\Web.config" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Administrator\adminLogin.aspx.cs">
+      <DependentUpon>adminLogin.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrator\adminLogin.aspx.designer.cs">
+      <DependentUpon>adminLogin.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Administrator\AdminManage.aspx.cs">
+      <DependentUpon>AdminManage.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Administrator\AdminManage.aspx.designer.cs">
+      <DependentUpon>AdminManage.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\evaluationOfProduct.aspx.cs">
+      <DependentUpon>evaluationOfProduct.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\evaluationOfProduct.aspx.designer.cs">
+      <DependentUpon>evaluationOfProduct.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\Modify.aspx.cs">
+      <DependentUpon>Modify.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\Modify.aspx.designer.cs">
+      <DependentUpon>Modify.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\pageOfEvaluation.aspx.cs">
+      <DependentUpon>pageOfEvaluation.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\pageOfEvaluation.aspx.designer.cs">
+      <DependentUpon>pageOfEvaluation.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_search_state.ascx.cs">
+      <DependentUpon>C_search_state.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_search_state.ascx.designer.cs">
+      <DependentUpon>C_search_state.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_SellingPro.ascx.cs">
+      <DependentUpon>C_SellingPro.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_SellingPro.ascx.designer.cs">
+      <DependentUpon>C_SellingPro.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_Retrieve_pwd.ascx.cs">
+      <DependentUpon>C_Retrieve_pwd.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_Retrieve_pwd.ascx.designer.cs">
+      <DependentUpon>C_Retrieve_pwd.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="register.aspx.cs">
+      <DependentUpon>register.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="register.aspx.designer.cs">
+      <DependentUpon>register.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\SearchBalance.aspx.cs">
+      <DependentUpon>SearchBalance.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\SearchBalance.aspx.designer.cs">
+      <DependentUpon>SearchBalance.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\searchProductsByCategory.aspx.cs">
+      <DependentUpon>searchProductsByCategory.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\searchProductsByCategory.aspx.designer.cs">
+      <DependentUpon>searchProductsByCategory.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\searchProductsByName.aspx.cs">
+      <DependentUpon>searchProductsByName.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\searchProductsByName.aspx.designer.cs">
+      <DependentUpon>searchProductsByName.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\ShoppingCart.aspx.cs">
+      <DependentUpon>ShoppingCart.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\ShoppingCart.aspx.designer.cs">
+      <DependentUpon>ShoppingCart.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\showInformationOfBuyer.aspx.cs">
+      <DependentUpon>showInformationOfBuyer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\showInformationOfBuyer.aspx.designer.cs">
+      <DependentUpon>showInformationOfBuyer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\Status_query.aspx.cs">
+      <DependentUpon>Status_query.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\Status_query.aspx.designer.cs">
+      <DependentUpon>Status_query.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="buyer\UpDateInformOfBuyer.aspx.cs">
+      <DependentUpon>UpDateInformOfBuyer.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="buyer\UpDateInformOfBuyer.aspx.designer.cs">
+      <DependentUpon>UpDateInformOfBuyer.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_admin\administrator_uc.ascx.cs">
+      <DependentUpon>administrator_uc.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_admin\administrator_uc.ascx.designer.cs">
+      <DependentUpon>administrator_uc.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_LoginStatus.ascx.cs">
+      <DependentUpon>C_LoginStatus.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_LoginStatus.ascx.designer.cs">
+      <DependentUpon>C_LoginStatus.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_NavStatus.ascx.cs">
+      <DependentUpon>C_NavStatus.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_NavStatus.ascx.designer.cs">
+      <DependentUpon>C_NavStatus.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_Register.ascx.cs">
+      <DependentUpon>C_Register.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_Register.ascx.designer.cs">
+      <DependentUpon>C_Register.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_searchBalance.ascx.cs">
+      <DependentUpon>C_searchBalance.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_searchBalance.ascx.designer.cs">
+      <DependentUpon>C_searchBalance.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_ShoppingCart.ascx.cs">
+      <DependentUpon>C_ShoppingCart.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_ShoppingCart.ascx.designer.cs">
+      <DependentUpon>C_ShoppingCart.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_evaluationOfProduct.ascx.cs">
+      <DependentUpon>C_evaluationOfProduct.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_evaluationOfProduct.ascx.designer.cs">
+      <DependentUpon>C_evaluationOfProduct.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_pageOfEvaluation.ascx.cs">
+      <DependentUpon>C_pageOfEvaluation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_pageOfEvaluation.ascx.designer.cs">
+      <DependentUpon>C_pageOfEvaluation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="C_ProductDetail.ascx.cs">
+      <DependentUpon>C_ProductDetail.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="C_ProductDetail.ascx.designer.cs">
+      <DependentUpon>C_ProductDetail.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\ProductShow.ascx.cs">
+      <DependentUpon>ProductShow.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\ProductShow.ascx.designer.cs">
+      <DependentUpon>ProductShow.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_UpDateInformOfBuyer.ascx.cs">
+      <DependentUpon>C_UpDateInformOfBuyer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_UpDateInformOfBuyer.ascx.designer.cs">
+      <DependentUpon>C_UpDateInformOfBuyer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="control_buyer\C_showInformationOfBuyer.ascx.cs">
+      <DependentUpon>C_showInformationOfBuyer.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="control_buyer\C_showInformationOfBuyer.ascx.designer.cs">
+      <DependentUpon>C_showInformationOfBuyer.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_Add_goods.ascx.cs">
+      <DependentUpon>C_Add_goods.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_Add_goods.ascx.designer.cs">
+      <DependentUpon>C_Add_goods.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_Information.ascx.cs">
+      <DependentUpon>C_Information.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_Information.ascx.designer.cs">
+      <DependentUpon>C_Information.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_login.ascx.cs">
+      <DependentUpon>C_login.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_login.ascx.designer.cs">
+      <DependentUpon>C_login.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_LoginStatus.ascx.cs">
+      <DependentUpon>C_LoginStatus.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_LoginStatus.ascx.designer.cs">
+      <DependentUpon>C_LoginStatus.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_Modify.ascx.cs">
+      <DependentUpon>C_Modify.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_Modify.ascx.designer.cs">
+      <DependentUpon>C_Modify.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_Modify_goods.ascx.cs">
+      <DependentUpon>C_Modify_goods.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_Modify_goods.ascx.designer.cs">
+      <DependentUpon>C_Modify_goods.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_NavStatus.ascx.cs">
+      <DependentUpon>C_NavStatus.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_NavStatus.ascx.designer.cs">
+      <DependentUpon>C_NavStatus.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_Number_query.ascx.cs">
+      <DependentUpon>C_Number_query.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_Number_query.ascx.designer.cs">
+      <DependentUpon>C_Number_query.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_registered.ascx.cs">
+      <DependentUpon>C_registered.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_registered.ascx.designer.cs">
+      <DependentUpon>C_registered.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\C_Timerprofit.ascx.cs">
+      <DependentUpon>C_Timerprofit.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\C_Timerprofit.ascx.designer.cs">
+      <DependentUpon>C_Timerprofit.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Control_seller\UpDateInformation.ascx.cs">
+      <DependentUpon>UpDateInformation.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Control_seller\UpDateInformation.ascx.designer.cs">
+      <DependentUpon>UpDateInformation.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="C_LoginStatus.ascx.cs">
+      <DependentUpon>C_LoginStatus.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="C_LoginStatus.ascx.designer.cs">
+      <DependentUpon>C_LoginStatus.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="Logout.aspx.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Logout.aspx.designer.cs">
+      <DependentUpon>Logout.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage.master.cs">
+      <DependentUpon>MasterPage.master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ModifyUser.Master.cs">
+      <DependentUpon>ModifyUser.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ModifyUser.Master.designer.cs">
+      <DependentUpon>ModifyUser.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ProductDetail.aspx.cs">
+      <DependentUpon>ProductDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ProductDetail.aspx.designer.cs">
+      <DependentUpon>ProductDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="seller\Add_goods.aspx.cs">
+      <DependentUpon>Add_goods.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\Add_goods.aspx.designer.cs">
+      <DependentUpon>Add_goods.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seller\Information.aspx.cs">
+      <DependentUpon>Information.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\Information.aspx.designer.cs">
+      <DependentUpon>Information.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seller\Modify.aspx.cs">
+      <DependentUpon>Modify.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\Modify.aspx.designer.cs">
+      <DependentUpon>Modify.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seller\Modify_goods.aspx.cs">
+      <DependentUpon>Modify_goods.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\Modify_goods.aspx.designer.cs">
+      <DependentUpon>Modify_goods.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seller\Number_query.aspx.cs">
+      <DependentUpon>Number_query.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\Number_query.aspx.designer.cs">
+      <DependentUpon>Number_query.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="registered.aspx.cs">
+      <DependentUpon>registered.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="registered.aspx.designer.cs">
+      <DependentUpon>registered.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seller\Retrieve_pwd.aspx.cs">
+      <DependentUpon>Retrieve_pwd.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\Retrieve_pwd.aspx.designer.cs">
+      <DependentUpon>Retrieve_pwd.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seller\SellingPro.aspx.cs">
+      <DependentUpon>SellingPro.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\SellingPro.aspx.designer.cs">
+      <DependentUpon>SellingPro.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="seller\Timerprofit.aspx.cs">
+      <DependentUpon>Timerprofit.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="seller\Timerprofit.aspx.designer.cs">
+      <DependentUpon>Timerprofit.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\DataAccess\DataAccess.csproj">
+      <Project>{265a4ff8-3a2e-4bb8-9b75-8e0884916118}</Project>
+      <Name>DataAccess</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{db9715eb-f3a0-46b0-bdc8-0f520c374b13}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\InterService\InterService.csproj">
+      <Project>{71b00bb0-cb44-4ec5-a1b7-3f834454e63a}</Project>
+      <Name>InterService</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>10108</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:10108/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

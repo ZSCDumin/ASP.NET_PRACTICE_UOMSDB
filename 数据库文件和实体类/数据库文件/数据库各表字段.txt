@@ -1,0 +1,85 @@
+               数据库名：UOMSDB(UniversityOrderMealSystemDataBase)  
+			   
+			  /*
+			  
+			    注释：(b表示买家,s表示卖家)			  
+			  
+			  */
+			            
+                                          /*买家*/
+
+买家基本信息表：(买家帐号,密码,姓名,电话号码,用户余额(默认值为0),密保问题,密保答案,邮箱) 
+------------【主键为：买家帐号】
+     
+buyer_T(b_account(varchar(20)),b_password(varchar(20)),b_name(varchar(20)),
+b_tel(varchar(11)),b_balance(money),b_question(varchar(50)),b_answer(varchar(50)),b_email(varchar(50)))
+
+
+
+购物车表：（买家帐号,卖家账号,店铺名称,商品Id,商品名称,商品价格, 商品数量(默认值为1))
+------------【主键为：买家帐号+商品Id】
+
+cart_T(b_account(varchar(20)),s_account(varchar(20),s_storeName(varchar(20),
+p_Id(int),p_name(varchar(20)),p_price(money),p_num(int))
+
+
+
+订单表：(订单编号,买家账号,卖家账号,店铺名称,订单总价(默认值为0),订单时间)
+------------【主键为：订单编号】
+
+b_order_T(b_o_Id(int),b_account(varchar(20),s_account(varchar(20),
+s_storeName(varchar(20)),b_o_totalprice(money),b_o_time(datetime))
+
+
+
+订单项目表：(订单编号,商品Id,商品价格,商品数量)
+------------【主键为：订单编号+商品Id】
+
+b_order_item_T(b_o_Id(int),p_Id(int),p_price(money),p_num(int))
+
+
+
+订单状态表：(订单编号,订单状态,提交时间)
+------------【主键为：订单编号+订单状态】
+
+b_order_state_T(b_o_Id(int),b_o_state(varchar(10)),b_o_subTime(datetime))
+
+
+
+商品评价表(评价Id(自动增长),买家帐号,商品Id,商品名称,商品图片,商品评价)
+------------【主键为：评价Id】
+
+b_evaluate_T(evaluate_Id(int),b_account(varchar(20)),p_Id(int),p_name(varchar(30)),
+p_photo(varchar(200)),p_evaluate(varchar(200)))
+
+
+
+                                          /*卖家*/
+
+卖家基本信息表：(卖家帐号,密码,店铺名称,姓名,电话号码,密保问题,密保答案,账号状态,收益额(默认值为0))
+------------【主键为：卖家帐号】
+
+seller_T (s_account(varchar(20)), s_password(varchar(20)),s_storeName(varchar(20)),s_name(varchar(20)),
+s_tel(varchar(11)),s_question(varchar(20)),s_answer(varchar(20)),s_state(bit),s_profit(money))
+
+
+
+商品表：(商品Id,卖家帐号,商品名称,商品分类,商品单价,商品库存量(默认值为0),商品图片,销量(默认值为0))
+------------【主键为：商品Id】
+
+product_T (p_Id(int),s_account(varchar(20)),p_name(varchar(30)),p_category(varchar(20)),
+p_price(money),p_cNum(int),p_photo(varchar(200)),p_saleNum(int))
+
+
+
+订单表：(订单编号,买家帐号,卖家账号,订单状态,订单总价(动态绑定订单项目表计算结果得出,默认值为0),订单时间)
+------------【主键为：订单编号】
+
+s_order_T(s_o_id(int),b_account(varchar(20)),s_account(varchar(20)),s_o_state(varchar(10)),s_o_totalprice(money),s_o_time(datetime))
+
+
+
+订单项目表：(订单编号,商品Id,商品价格,商品数量(默认值为1))
+------------【主键为：订单编号+商品Id】
+
+s_order_item_T(s_o_id(int), p_Id(int),p_price(money),p_num(int))

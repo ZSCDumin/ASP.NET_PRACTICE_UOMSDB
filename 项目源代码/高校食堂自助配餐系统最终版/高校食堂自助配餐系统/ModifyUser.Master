@@ -1,0 +1,58 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <title>食堂餐厅点餐系统</title> 
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
+    <link href="bootstrap/css/bootstrap.css" rel="stylesheet" type="text/css" media="all" />
+</head>
+<body>
+    <form id="form1" runat="server">
+        <!--AJAX控件-->
+        <asp:ScriptManager ID="ScriptManager1" runat="server"></asp:ScriptManager>
+        <div class="contianer">
+            <!--头部导航部分-->
+            <div class="header">
+                <div style="width:auto;height:42px;font-size:16px;float:left; margin-left:3%;">
+                    <a href="../Default.aspx" ><h5>返回首页</h5></a>
+                </div>
+                <div style="height: 42px; float: right; width: 200px; margin-right:3%;">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+                        </asp:ContentPlaceHolder>
+                    
+                </div>
+            </div>
+
+            
+            <!--主题部分-->
+            <div class="Main" style="height:750px;">
+                <div class="Navfooter">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+                <div style="height: 560px;">
+                    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                    </asp:ContentPlaceHolder>
+                </div>
+            </div>
+
+
+            <!--footer-->
+            <div class="panel-footer">
+                <p class="text-center">
+                    <a style="margin-right: 5%;">诚信举报</a>
+                    <a style="margin-right: 5%;">常见问题</a>
+                    <a style="margin-right: 5%;">用户反馈</a>
+                    <a style="margin-right: 5%;">联系我们</a>
+                    <a style="margin-right: 5%;">关于我们</a>
+                </p>
+                <br />
+                <p class="text-center">@Powered By Lewis</p>
+            </div>
+        </div>
+    </form>
+</body>
+</html>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 12, 9.875" name="UOMSDB">
+  <DataContextMoniker Name="/UOMSDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="00b4945e-84a1-4ecd-ae5c-6c043e95a3d5" absoluteBounds="0.75, 0.75, 2, 1.9068933105468751">
+      <DataClassMoniker Name="/UOMSDBDataContext/b_evaluate_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8089e82f-f32c-4dae-9a2a-1f7a6c5d4cac" absoluteBounds="0.765, 1.21, 1.9700000000000002, 1.346893310546875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ffcc3796-86b0-4ac5-ad3e-31bc0265bfd3" absoluteBounds="3.75, 0.75, 2, 1.5373050944010416">
+      <DataClassMoniker Name="/UOMSDBDataContext/b_order_item_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ae2063b0-9f74-4d78-bf04-f9d218b9a59c" absoluteBounds="3.765, 1.21, 1.9700000000000002, 0.97730509440104174" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5679065a-6223-4930-999c-be2c0d41c2a0" absoluteBounds="0.75, 3.75, 2, 1.3525109863281255">
+      <DataClassMoniker Name="/UOMSDBDataContext/b_order_state_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e07f9e17-30c4-4f45-8fa9-0bdcefb8275b" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ea77f7ba-26c9-433d-abea-9e22432ca594" absoluteBounds="3.75, 3.75, 2, 2.0916874186197916">
+      <DataClassMoniker Name="/UOMSDBDataContext/b_order_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="34fb1018-56d0-4eb1-97a7-55ae0e604ed2" absoluteBounds="3.765, 4.21, 1.9700000000000002, 1.5316874186197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="a1ae7cf2-11a5-4e58-af37-3ac58f702652" absoluteBounds="6.75, 0.75, 2, 2.2764815266927085">
+      <DataClassMoniker Name="/UOMSDBDataContext/buyer_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7cdb2940-60d0-4e0d-a80b-9124205de333" absoluteBounds="6.765, 1.21, 1.9700000000000002, 1.7164815266927085" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="15260f68-4500-4d7a-acf2-17d59d2f335d" absoluteBounds="0.75, 6.75, 2, 2.0916874186197916">
+      <DataClassMoniker Name="/UOMSDBDataContext/cart_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d676896d-7335-4c03-b7b8-d394be471880" absoluteBounds="0.765, 7.21, 1.9700000000000002, 1.5316874186197915" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="833610d7-1b28-4f02-b7b0-0ab8d10f43b6" absoluteBounds="3.75, 6.75, 2, 2.2764815266927094">
+      <DataClassMoniker Name="/UOMSDBDataContext/product_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0570cec3-1a6b-4f77-8c5d-bbbd36ecc1be" absoluteBounds="3.765, 7.21, 1.9700000000000002, 1.7164815266927085" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="69ae5343-4f27-4b2b-902a-ddbf3fd62646" absoluteBounds="6.75, 4.75, 2, 1.5373050944010416">
+      <DataClassMoniker Name="/UOMSDBDataContext/s_order_item_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="4fb35219-cd17-4e8b-9d45-7db96e22ab71" absoluteBounds="6.765, 5.21, 1.9700000000000002, 0.97730509440104174" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="8d7a4272-36ad-46fc-b92d-167a06e9dd2e" absoluteBounds="6.75, 7.75, 2, 1.9068933105468746">
+      <DataClassMoniker Name="/UOMSDBDataContext/s_order_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="fd4de21a-dcea-453f-9aaa-e32753192651" absoluteBounds="6.765, 8.21, 1.9700000000000002, 1.346893310546875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6f59b5d6-f3d5-4f9d-a7a0-988d2c47d775" absoluteBounds="9.75, 0.75, 2, 2.4612756347656255">
+      <DataClassMoniker Name="/UOMSDBDataContext/seller_T" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3eb549b8-6535-4391-9a66-156f91b47ec1" absoluteBounds="9.765, 1.21, 1.9700000000000002, 1.901275634765625" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

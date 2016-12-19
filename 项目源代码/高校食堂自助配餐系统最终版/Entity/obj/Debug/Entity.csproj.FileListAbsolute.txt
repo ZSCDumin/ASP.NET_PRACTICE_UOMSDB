@@ -1,0 +1,95 @@
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\Entity\bin\Entity.dll.config
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\Entity\bin\Entity.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\Entity\bin\Entity.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\Entity\obj\Debug\Entity.pdb
+C:\Users\lewis\dining\Entity\bin\Entity.dll
+C:\Users\lewis\dining\Entity\bin\Entity.pdb
+C:\Users\lewis\dining\Entity\obj\Debug\Entity.dll
+C:\Users\lewis\dining\Entity\obj\Debug\Entity.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\Entity\bin\Entity.dll.config
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\Entity\bin\Entity.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\Entity\bin\Entity.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\Entity\obj\Debug\Entity.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\Entity\obj\Debug\Entity.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\dining\Entity\bin\Entity.dll.config
+D:\dining\Entity\bin\Entity.dll
+D:\dining\Entity\bin\Entity.pdb
+D:\dining\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\dining\Entity\obj\Debug\Entity.dll
+D:\dining\Entity\obj\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\dining\Entity\bin\Entity.dll.config
+C:\Users\Administrator\Desktop\dining\Entity\bin\Entity.dll
+C:\Users\Administrator\Desktop\dining\Entity\bin\Entity.pdb
+C:\Users\Administrator\Desktop\dining\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\dining\Entity\obj\Debug\Entity.dll
+C:\Users\Administrator\Desktop\dining\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\Entity\obj\Debug\Entity.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\Entity\bin\Entity.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\Entity\bin\Entity.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\Entity\obj\Debug\Entity.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\Entity\obj\Debug\Entity.pdb
+C:\Users\黄俊淞\Desktop\dining\Entity\bin\Entity.dll
+C:\Users\黄俊淞\Desktop\dining\Entity\bin\Entity.pdb
+C:\Users\黄俊淞\Desktop\dining\Entity\obj\Debug\Entity.dll
+C:\Users\黄俊淞\Desktop\dining\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\Entity\obj\Debug\Entity.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\Entity\bin\Entity.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\Entity\bin\Entity.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\Entity\obj\Debug\Entity.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\Entity\obj\Debug\Entity.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\Entity\bin\Entity.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\Entity\bin\Entity.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\Entity\obj\Debug\Entity.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\Entity\obj\Debug\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\Entity\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\Entity\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\Entity\obj\Debug\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\Entity\obj\Debug\Entity.pdb

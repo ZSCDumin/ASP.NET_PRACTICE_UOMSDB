@@ -1,0 +1,240 @@
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\InterService\obj\Debug\InterService.pdb
+C:\Users\lewis\dining\InterService\bin\InterService.dll.config
+C:\Users\lewis\dining\InterService\bin\InterService.dll
+C:\Users\lewis\dining\InterService\bin\InterService.pdb
+C:\Users\lewis\dining\InterService\bin\DataAccess.dll
+C:\Users\lewis\dining\InterService\bin\Entity.dll
+C:\Users\lewis\dining\InterService\bin\DataAccess.pdb
+C:\Users\lewis\dining\InterService\bin\Entity.pdb
+C:\Users\lewis\dining\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\lewis\dining\InterService\obj\Debug\InterService.dll
+C:\Users\lewis\dining\InterService\obj\Debug\InterService.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\obj\Debug\InterService.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\bin\InterService.dll.config
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\bin\InterService.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\bin\InterService.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\bin\DataAccess.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\bin\Entity.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\bin\DataAccess.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\bin\Entity.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\InterService\obj\Debug\InterService.pdb
+D:\dining\InterService\bin\InterService.dll.config
+D:\dining\InterService\bin\InterService.dll
+D:\dining\InterService\bin\InterService.pdb
+D:\dining\InterService\bin\DataAccess.dll
+D:\dining\InterService\bin\Entity.dll
+D:\dining\InterService\bin\DataAccess.pdb
+D:\dining\InterService\bin\Entity.pdb
+D:\dining\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+D:\dining\InterService\obj\Debug\InterService.dll
+D:\dining\InterService\obj\Debug\InterService.pdb
+C:\Users\Administrator\Desktop\dining\InterService\bin\InterService.dll.config
+C:\Users\Administrator\Desktop\dining\InterService\bin\InterService.dll
+C:\Users\Administrator\Desktop\dining\InterService\bin\InterService.pdb
+C:\Users\Administrator\Desktop\dining\InterService\bin\DataAccess.dll
+C:\Users\Administrator\Desktop\dining\InterService\bin\Entity.dll
+C:\Users\Administrator\Desktop\dining\InterService\bin\DataAccess.pdb
+C:\Users\Administrator\Desktop\dining\InterService\bin\Entity.pdb
+C:\Users\Administrator\Desktop\dining\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\dining\InterService\obj\Debug\InterService.dll
+C:\Users\Administrator\Desktop\dining\InterService\obj\Debug\InterService.pdb
+C:\Users\lewis\Desktop\dining\InterService\bin\InterService.dll.config
+C:\Users\lewis\Desktop\dining\InterService\bin\InterService.dll
+C:\Users\lewis\Desktop\dining\InterService\bin\InterService.pdb
+C:\Users\lewis\Desktop\dining\InterService\bin\DataAccess.dll
+C:\Users\lewis\Desktop\dining\InterService\bin\Entity.dll
+C:\Users\lewis\Desktop\dining\InterService\bin\DataAccess.pdb
+C:\Users\lewis\Desktop\dining\InterService\bin\Entity.pdb
+C:\Users\lewis\Desktop\dining\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Desktop\dining\InterService\obj\Debug\InterService.dll
+C:\Users\lewis\Desktop\dining\InterService\obj\Debug\InterService.pdb
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\bin\InterService.dll.config
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\bin\InterService.dll
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\bin\InterService.pdb
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\bin\DataAccess.dll
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\bin\Entity.dll
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\bin\DataAccess.pdb
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\bin\Entity.pdb
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\obj\Debug\InterService.dll
+C:\Users\lewis\Desktop\dining-master\dining-master\InterService\obj\Debug\InterService.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\obj\Debug\InterService.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\obj\Debug\InterService.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\bin\InterService.dll.config
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\bin\InterService.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\bin\InterService.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\bin\DataAccess.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\bin\Entity.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\bin\DataAccess.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\InterService\bin\Entity.pdb
+C:\Users\lewis\Desktop\dining\dining\InterService\bin\InterService.dll.config
+C:\Users\lewis\Desktop\dining\dining\InterService\bin\InterService.dll
+C:\Users\lewis\Desktop\dining\dining\InterService\bin\InterService.pdb
+C:\Users\lewis\Desktop\dining\dining\InterService\bin\DataAccess.dll
+C:\Users\lewis\Desktop\dining\dining\InterService\bin\Entity.dll
+C:\Users\lewis\Desktop\dining\dining\InterService\bin\DataAccess.pdb
+C:\Users\lewis\Desktop\dining\dining\InterService\bin\Entity.pdb
+C:\Users\lewis\Desktop\dining\dining\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Desktop\dining\dining\InterService\obj\Debug\InterService.dll
+C:\Users\lewis\Desktop\dining\dining\InterService\obj\Debug\InterService.pdb
+C:\Users\黄俊淞\Desktop\dining\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\黄俊淞\Desktop\dining\InterService\obj\Debug\InterService.dll
+C:\Users\黄俊淞\Desktop\dining\InterService\bin\InterService.dll.config
+C:\Users\黄俊淞\Desktop\dining\InterService\bin\InterService.dll
+C:\Users\黄俊淞\Desktop\dining\InterService\bin\InterService.pdb
+C:\Users\黄俊淞\Desktop\dining\InterService\bin\DataAccess.dll
+C:\Users\黄俊淞\Desktop\dining\InterService\bin\Entity.dll
+C:\Users\黄俊淞\Desktop\dining\InterService\bin\DataAccess.pdb
+C:\Users\黄俊淞\Desktop\dining\InterService\bin\Entity.pdb
+C:\Users\黄俊淞\Desktop\dining\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\InterService\obj\Debug\InterService.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\bin\InterService.dll.config
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\bin\InterService.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\bin\InterService.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\bin\DataAccess.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\bin\Entity.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\bin\DataAccess.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\bin\Entity.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\obj\Debug\InterService.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\InterService\obj\Debug\InterService.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\bin\InterService.dll.config
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\bin\InterService.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\bin\InterService.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\bin\DataAccess.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\bin\Entity.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\bin\DataAccess.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\bin\Entity.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\obj\Debug\InterService.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\InterService\obj\Debug\InterService.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\bin\InterService.dll.config
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\bin\InterService.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\bin\InterService.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\bin\DataAccess.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\bin\Entity.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\bin\DataAccess.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\bin\Entity.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\obj\Debug\InterService.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\InterService\obj\Debug\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\bin\InterService.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\bin\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\bin\InterService.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\obj\Debug\InterService.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\obj\Debug\InterService.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\InterService\obj\Debug\InterService.pdb

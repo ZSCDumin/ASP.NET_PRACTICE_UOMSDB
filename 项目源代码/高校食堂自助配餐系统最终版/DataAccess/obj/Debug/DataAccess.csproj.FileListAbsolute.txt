@@ -1,0 +1,191 @@
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\高校食堂自助配餐系统\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最新版\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\lewis\dining\DataAccess\bin\DataAccess.dll.config
+C:\Users\lewis\dining\DataAccess\bin\DataAccess.dll
+C:\Users\lewis\dining\DataAccess\bin\DataAccess.pdb
+C:\Users\lewis\dining\DataAccess\bin\Entity.dll
+C:\Users\lewis\dining\DataAccess\bin\Entity.pdb
+C:\Users\lewis\dining\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\lewis\dining\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\lewis\dining\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\bin\DataAccess.dll.config
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\bin\DataAccess.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\bin\DataAccess.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\bin\Entity.dll
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\bin\Entity.pdb
+C:\Users\杜敏\Desktop\高校食堂自助配餐系统 12-10\DataAccess\obj\Debug\DataAccess.pdb
+D:\dining\DataAccess\bin\DataAccess.dll.config
+D:\dining\DataAccess\bin\DataAccess.dll
+D:\dining\DataAccess\bin\DataAccess.pdb
+D:\dining\DataAccess\bin\Entity.dll
+D:\dining\DataAccess\bin\Entity.pdb
+D:\dining\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\dining\DataAccess\obj\Debug\DataAccess.dll
+D:\dining\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\dining\DataAccess\bin\DataAccess.dll.config
+C:\Users\Administrator\Desktop\dining\DataAccess\bin\DataAccess.dll
+C:\Users\Administrator\Desktop\dining\DataAccess\bin\DataAccess.pdb
+C:\Users\Administrator\Desktop\dining\DataAccess\bin\Entity.dll
+C:\Users\Administrator\Desktop\dining\DataAccess\bin\Entity.pdb
+C:\Users\Administrator\Desktop\dining\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\dining\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\dining\DataAccess\obj\Debug\DataAccess.pdb
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\bin\DataAccess.dll.config
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\bin\DataAccess.dll
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\bin\DataAccess.pdb
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\bin\Entity.dll
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\bin\Entity.pdb
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\obj\Debug\DataAccess.dll
+E:\QQ数据\2712220318\FileRecv\dining\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 最新版1211\DataAccess\obj\Debug\DataAccess.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\DataAccess\bin\DataAccess.dll.config
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\DataAccess\bin\DataAccess.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\DataAccess\bin\DataAccess.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\DataAccess\bin\Entity.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\DataAccess\bin\Entity.pdb
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\DataAccess\obj\Debug\DataAccess.dll
+D:\QQ记录\501968797\FileRecv\高校食堂自助配餐系统12-14\高校食堂自助配餐系统12-14\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\lewis\Desktop\dining\dining\DataAccess\bin\DataAccess.dll.config
+C:\Users\lewis\Desktop\dining\dining\DataAccess\bin\DataAccess.dll
+C:\Users\lewis\Desktop\dining\dining\DataAccess\bin\DataAccess.pdb
+C:\Users\lewis\Desktop\dining\dining\DataAccess\bin\Entity.dll
+C:\Users\lewis\Desktop\dining\dining\DataAccess\bin\Entity.pdb
+C:\Users\lewis\Desktop\dining\dining\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Desktop\dining\dining\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\lewis\Desktop\dining\dining\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\黄俊淞\Desktop\dining\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\黄俊淞\Desktop\dining\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\黄俊淞\Desktop\dining\DataAccess\bin\DataAccess.dll.config
+C:\Users\黄俊淞\Desktop\dining\DataAccess\bin\DataAccess.dll
+C:\Users\黄俊淞\Desktop\dining\DataAccess\bin\DataAccess.pdb
+C:\Users\黄俊淞\Desktop\dining\DataAccess\bin\Entity.dll
+C:\Users\黄俊淞\Desktop\dining\DataAccess\bin\Entity.pdb
+C:\Users\黄俊淞\Desktop\dining\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-16\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\bin\DataAccess.dll.config
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\bin\DataAccess.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\bin\DataAccess.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\bin\Entity.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\bin\Entity.pdb
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\lewis\Desktop\高校食堂自助配餐系统 12-17\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12-17-new\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.17.1\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\bin\DataAccess.dll.config
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\bin\DataAccess.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\bin\DataAccess.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\bin\Entity.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\bin\Entity.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.17.2\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.1\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.2\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\bin\DataAccess.dll.config
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\bin\DataAccess.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\bin\DataAccess.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\bin\Entity.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\bin\Entity.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Administrator\Desktop\高校食堂自助配餐系统 12.18.3\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统 12.18.final\DataAccess\obj\Debug\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\bin\DataAccess.dll.config
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\bin\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\bin\DataAccess.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\bin\Entity.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\bin\Entity.pdb
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\obj\Debug\DataAccess.dll
+E:\ASP.NET资料\实训\项目源代码\高校食堂自助配餐系统最终版\DataAccess\obj\Debug\DataAccess.pdb
