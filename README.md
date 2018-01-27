@@ -1,2 +1,2 @@
 # ASP.NET_PRACTICE_UOMSDB(高校订餐系统）
-ASP.NET 实训 2016-12-19
+# 电子科技大学中山学院作品
